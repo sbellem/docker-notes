@@ -10,3 +10,5 @@ Radical:
 ```shell
 docker volume prune
 ```
+
+See https://devopsheaven.com/docker/volumes/purge/devops/2018/05/25/purge-docker-images-containers-networks-volumes.html
